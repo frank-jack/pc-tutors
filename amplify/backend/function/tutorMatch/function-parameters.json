@@ -1,0 +1,19 @@
+{
+  "lambdaLayers": [],
+  "permissions": {
+    "storage": {
+      "PCTutorsData": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ],
+      "PCTutorsRequests": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  }
+}

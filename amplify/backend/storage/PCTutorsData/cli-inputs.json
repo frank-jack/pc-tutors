@@ -1,0 +1,10 @@
+{
+  "resourceName": "PCTutorsData",
+  "tableName": "PCTutorsData",
+  "partitionKey": {
+    "fieldName": "userId",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

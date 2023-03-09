@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "paths": {
+    "/userData": {
+      "name": "/userData",
+      "lambdaFunction": "pcTutors",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/match": {
+      "name": "/match",
+      "lambdaFunction": "tutorMatch",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

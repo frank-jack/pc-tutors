@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "storage": {
+      "PCTutorsData": [
+        "read"
+      ],
+      "PCTutorsRequests": [
+        "read"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

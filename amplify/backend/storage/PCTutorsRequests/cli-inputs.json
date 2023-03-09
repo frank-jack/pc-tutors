@@ -1,0 +1,10 @@
+{
+  "resourceName": "PCTutorsRequests",
+  "tableName": "PCTutorsRequests",
+  "partitionKey": {
+    "fieldName": "requestId",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

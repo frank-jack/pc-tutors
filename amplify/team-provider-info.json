@@ -1,0 +1,34 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pctutors-dev-135056-authRole",
+      "UnauthRoleArn": "arn:aws:iam::417990662395:role/amplify-pctutors-dev-135056-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::417990662395:role/amplify-pctutors-dev-135056-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-pctutors-dev-135056-deployment",
+      "UnauthRoleName": "amplify-pctutors-dev-135056-unauthRole",
+      "StackName": "amplify-pctutors-dev-135056",
+      "StackId": "arn:aws:cloudformation:us-east-1:417990662395:stack/amplify-pctutors-dev-135056/50df6110-1f1e-11ed-bd68-0a91907fb04d",
+      "AmplifyAppId": "d1m32swvh33jh0"
+    },
+    "categories": {
+      "function": {
+        "pcTutors": {
+          "deploymentBucketName": "amplify-pctutors-dev-135056-deployment",
+          "s3Key": "amplify-builds/pcTutors-4a6b364776427975737a-build.zip"
+        },
+        "tutorMatch": {
+          "deploymentBucketName": "amplify-pctutors-dev-135056-deployment",
+          "s3Key": "amplify-builds/tutorMatch-534d6c78334f4b696331-build.zip"
+        },
+        "tutorInfoUpdate": {
+          "deploymentBucketName": "amplify-pctutors-dev-135056-deployment",
+          "s3Key": "amplify-builds/tutorInfoUpdate-43553274756763544d30-build.zip"
+        }
+      },
+      "auth": {
+        "pctutorsa5768bb6": {}
+      }
+    }
+  }
+}
